@@ -1,3 +1,16 @@
+--
+layout:     post
+title:      "Ubuntu配置virtualbox+vagrant"
+subtitle:   "开发虚拟环境搭建"
+date:       2017-04-12 18:00:00
+author:     "Garry fan"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - virtualbox
+    - Ubuntu
+    - Vagrant
+---
+
 ## 一、安装virtualbox
 具体内容参考[virtualbox官方文档](https://www.virtualbox.org/wiki/Linux_Downloads)
 ### 1、添加virtualbox官方源
