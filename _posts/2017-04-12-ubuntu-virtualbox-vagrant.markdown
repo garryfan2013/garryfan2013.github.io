@@ -1,4 +1,4 @@
---
+---
 layout:     post
 title:      "Ubuntu配置virtualbox+vagrant"
 subtitle:   "开发虚拟环境搭建"
