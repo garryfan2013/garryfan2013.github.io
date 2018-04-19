@@ -1,6 +1,6 @@
 # Site settings
-title: 技术随笔|知识仓库
-SEOTitle: Garry的博客 | Garry's BLOG
+title: Just for fun
+SEOTitle: Garry's BLOG | Garry's BLOG
 header-img: img/home-bg.jpg
 email: fan.jia@163.com
 description: "Good Good Study Day Day Up!!"
@@ -68,7 +68,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "努力工作，享受生活，充实每一天"
+sidebar-about-description: "Reading ourselves to death"
 sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -87,7 +87,7 @@ friends: [
     },{
         title: "Foo",
         href: "#"
-    },{
+},{
         title: "Bar",
         href: "#"
     },{
