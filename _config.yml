@@ -1,7 +1,7 @@
 # Site settings
 title: Just for fun
-SEOTitle: Garry's BLOG | Garry's BLOG
-header-img: img/home-bg.jpg
+SEOTitle: Garry's BLOG | 神秘岛
+header-img: img/home-bg-o.jpg
 email: fan.jia@163.com
 description: "Good Good Study Day Day Up!!"
 keyword: "Working living growing"
@@ -26,7 +26,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: false                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -84,17 +84,5 @@ friends: [
     {
         title: "Hux Blog",
         href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-},{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
     }
 ]
