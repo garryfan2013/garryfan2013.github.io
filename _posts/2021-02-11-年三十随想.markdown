@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "感想杂谈"
-subtitle:   "年三十随想"
+title:      "年三十随想"
+subtitle:   "不想油腻的中年人"
 date:       2021-02-11
 author:     "Garry fan"
 header-img: "img/post-bg-2015.jpg"
